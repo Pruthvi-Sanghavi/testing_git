@@ -2,7 +2,14 @@
 
 using namespace std;
 
+void print(){
+	cout << "Just testing things out" << endl;
+}
+
+
 int main(){
-	cout << "Just testing things" << endl;
+	
+	print();
+	
 	return 0;	
 }
