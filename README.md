@@ -57,3 +57,32 @@ To https://github.com/Pruthvi-Sanghavi/testing_git.git
  * [new branch]      devel -> devel
 
 ```
+
+## Creating a new branch and commiting the files
+
+Check that you are on the new branch
+```
+git checkout devel
+```
+Create a new branch,
+```
+git checkout -b user/pruthvi-sanghavi/test-branch
+```
+Check the new branch using
+```
+git branch
+```
+Commit and push the branch.
+
+
+
+
+
+
+
+
+
+
+
+
+
