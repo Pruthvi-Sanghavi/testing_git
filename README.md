@@ -76,7 +76,19 @@ Commit and push the branch.
 
 ## Checking a few things like merging without updating the devel(default) branch
 
+- This process works ok. You just need to go to the repository and merge the changes.
 
+## Merging changes by a contributor
+
+- Added a new file
+```
+The process is pretty straight forward
+```
+
+- Adding a change to existing file.
+```
+The process looks the same but lets see
+```
 
 
 
