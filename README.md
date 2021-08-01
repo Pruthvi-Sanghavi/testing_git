@@ -74,6 +74,8 @@ git branch
 ```
 Commit and push the branch.
 
+## Checking a few things like merging without updating the devel(default) branch
+
 
 
 
